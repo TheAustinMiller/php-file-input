@@ -162,9 +162,9 @@ function displaySubjectLinks() {
     ?>
         <p>Subjects: </p>
         <p>
-            <span class="link"><a href="try.php?param=all">All subjects</a></span>
-            <span class="link"><a href="try.php?param=COMPSCI">Computer Science</a></span>
-            <span class="link"><a href="try.php?param=MATH">Mathematics</a></span>
+            <span class="link"><a href="fall22schedule.php?param=all">All subjects</a></span>
+            <span class="link"><a href="fall22schedule.php?param=COMPSCI">Computer Science</a></span>
+            <span class="link"><a href="fall22schedule.php?param=MATH">Mathematics</a></span>
         </p>
     <?php
     }
@@ -173,9 +173,9 @@ function displaySubjectLinks() {
         ?>
             <p>Locations: </p>
             <p>
-                <span class="link"><a href="try.php?param=MG0115">MG0115</a></span>
-                <span class="link"><a href="try.php?param=MG0125">MG0125</a></span>
-                <span class="link"><a href="try.php?param=HY0210">HY0210</a></span>
+                <span class="link"><a href="fall22schedule.php?param=MG0115">MG0115</a></span>
+                <span class="link"><a href="fall22schedule.php?param=MG0125">MG0125</a></span>
+                <span class="link"><a href="fall22schedule.php?param=HY0210">HY0210</a></span>
             </p>
         <?php
         }
